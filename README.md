@@ -10,10 +10,8 @@ The name "Raspberry Explorer" comes from the program's original intended purpose
 In the future, Raspberry Explorer will support touch screen interfaces, which will allow easier interaction. It will also support loadable plugins, to make development of Modules a bit easier.
 
 Here are some examples of modules you might write for Raspberry Explorer:
-\begin{itemize}
-\item An RMI based interface for a robot controlled by a Raspberry Pi 
-\item A Random Walk implementation for said robot
-\item Client and Server modules, that allow kids to assemble an instant messaging application
-\end{itemize}
+*An RMI based interface for a robot controlled by a Raspberry Pi 
+*A Random Walk implementation for said robot
+*Client and Server modules, that allow kids to assemble an instant messaging application
 
-The goal of interaction in this way is not necessarily to \emph{teach} programming concepts, but merely to inspire curiosity. Learning anything takes motivation, and the easiest way to motivate kids to learn is to inspire them by giving them just enough to play around with concepts on an \emph{intuitive} level, but not so much that they get overwhelmed. That is the goal behind Raspberry Explorer.
+The goal of interaction in this way is not necessarily to teach programming concepts, but merely to inspire curiosity. Learning anything takes motivation, and the easiest way to motivate kids to learn is to inspire them by giving them just enough to play around with concepts on an intuitive level, but not so much that they get overwhelmed. That is the goal behind Raspberry Explorer.
